@@ -12,3 +12,17 @@ C:\Users\azarak\source\repos\Class constructor\Class constructor\obj\Debug\netco
 C:\Users\azarak\source\repos\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.dll
 C:\Users\azarak\source\repos\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.pdb
 C:\Users\azarak\source\repos\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.genruntimeconfig.cache
+C:\Users\azarak\Desktop\Class constructor\Class constructor\bin\Debug\netcoreapp3.1\Class constructor.exe
+C:\Users\azarak\Desktop\Class constructor\Class constructor\bin\Debug\netcoreapp3.1\Class constructor.deps.json
+C:\Users\azarak\Desktop\Class constructor\Class constructor\bin\Debug\netcoreapp3.1\Class constructor.runtimeconfig.json
+C:\Users\azarak\Desktop\Class constructor\Class constructor\bin\Debug\netcoreapp3.1\Class constructor.runtimeconfig.dev.json
+C:\Users\azarak\Desktop\Class constructor\Class constructor\bin\Debug\netcoreapp3.1\Class constructor.dll
+C:\Users\azarak\Desktop\Class constructor\Class constructor\bin\Debug\netcoreapp3.1\Class constructor.pdb
+C:\Users\azarak\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.csproj.AssemblyReference.cache
+C:\Users\azarak\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azarak\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.AssemblyInfoInputs.cache
+C:\Users\azarak\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.AssemblyInfo.cs
+C:\Users\azarak\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.csproj.CoreCompileInputs.cache
+C:\Users\azarak\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.dll
+C:\Users\azarak\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.pdb
+C:\Users\azarak\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.genruntimeconfig.cache

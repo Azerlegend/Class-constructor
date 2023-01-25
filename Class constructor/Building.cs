@@ -10,6 +10,14 @@ namespace Class_constructor
         public int height;
         public int area;
         public string address;
+          
+
+        public Building(string name,int height,int area)
+        {
+            this.name = name;
+            this.height = height;
+            this.area = area;
+        }
 
 
         public string GetVolume()

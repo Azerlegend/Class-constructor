@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azarak\\source\\repos\\Class constructor\\Class constructor\\Class constructor.csproj",
+      "projectUniqueName": "C:\\Users\\azarak\\Desktop\\Class constructor\\Class constructor\\Class constructor.csproj",
       "projectName": "Class constructor",
-      "projectPath": "C:\\Users\\azarak\\source\\repos\\Class constructor\\Class constructor\\Class constructor.csproj",
+      "projectPath": "C:\\Users\\azarak\\Desktop\\Class constructor\\Class constructor\\Class constructor.csproj",
       "packagesPath": "C:\\Users\\azarak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azarak\\source\\repos\\Class constructor\\Class constructor\\obj\\",
+      "outputPath": "C:\\Users\\azarak\\Desktop\\Class constructor\\Class constructor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

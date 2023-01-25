@@ -26,21 +26,15 @@ namespace Class_constructor
 
 
 
-            var Building1 = new Building();
-            Building1.name = "Trump";
-            Building1.height = 155;
-            Building1.area = 450;
-            Building1.address = "city Baku";
+            var Building1 = new Building("Trump",155,450);
+            
             Console.WriteLine(Building1.GetVolume());
 
 
 
 
-            var Building2 = new Building();
-            Building2.name = "Messenat";
-            Building2.height = 50;
-            Building2.area = 40;
-            Building2.address = "city Baku";
+            var Building2 = new Building("Messenat",50,40);
+            
             Console.WriteLine(Building2.GetVolume());
 
 
